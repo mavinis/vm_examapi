@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+exclude:
+errors:
+avoid_print: warning
+
+linter:
+rules:
+prefer_single_quotes: true
+
+#A list of all available lints
+# and their documentation is published at
+# https://dart-lang.github.io/linter/lints/index.html.
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options.
